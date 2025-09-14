@@ -1,0 +1,3 @@
+Lengua y comunicacion III:10|Ingles III:10|Pensamiento matematico III:10|Ecosistemas:10|Humanidades II:10|Recursos socioemocionales III:10|Taller de emprendedores I:10|Activacion fisica:10|Tutoria III:10|Emplea frameworks:10|Aplica metodologias agiles:10
+Lengua y comunicacion I:5|Ingles I:7|Pensamiento matematico I:7|Cultura digital I:7|La materia y sus interacciones:7|Humanidades I:7|Ciencias sociales I:7|Recursos socioemocionales I:7|Tutoria I:7
+Lengua y comunicacion III:6.666667|Ingles III:4.666667|Pensamiento matematico III:2.666667|Ecosistemas:4|Humanidades II:5|Recursos socioemocionales III:6.666667|Taller de emprendedores I:0|Activacion fisica:10|Tutoria III:6|Emplea frameworks:6.333333|Aplica metodologias agiles:5.666667

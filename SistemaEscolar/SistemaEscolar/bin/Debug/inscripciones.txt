@@ -1,0 +1,1 @@
+Nombre|Apellido1|Apellido2|CURP1234|Domicilio|Fecha de nacimiento|Edad|Sexo|Secundaria|10|12345

@@ -1,0 +1,5 @@
+123456789|curp123456789|Lionel Andres|Messi|Cuccitini|3|AVP|Programacion|vespertino|NoseXD
+23313052220670|nomeacuerdo:v|Iván Francisco|Guerrero|Reyes|Tercero|3AVP|Programacion|Vespertino|NOSEXDXDXD
+1234567891011|CURP1234567|Nombre1|Apellido1|Apellido2|Primero|Grupo|Carrera|Turno|Modalidad
+7480005242|Moldgdwug28|Juan|Barreto|Diaz|Tercero|AVP|Programacion|Matutino|Escolarizada
+2222222222|erdeyfvghbuj|rxdcygvhbunjk|drcfgvhbjnk|dcftygvhbjnk|Segundo|AVP|Programacion|Vespertino|Escolarizada
