@@ -19,4 +19,4 @@
 - File-based data storage (.txt)  
 
 ---
-Made with ❤️ using C# and Visual Studio 2022
+Made using C# and Visual Studio 2022
